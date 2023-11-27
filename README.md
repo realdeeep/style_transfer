@@ -18,6 +18,13 @@ To refine the stylized image, we assess three key parameters:
 
 Utilizing gradient descent, we iteratively minimize these losses, achieving a well-balanced, stylized image. In 20 iterations, we reduce the combined weighted loss value significantly, exemplified by a decrease from "1147329400.0" to "69726370.0." This optimization is critical, ensuring the output captures the desired content and style in the most effective manner.
 
+## Dependencies
+
+Run this to install the required libraries.
+```bash
+pip install -r requirements.txt
+```
+
 ## How to Use
 
 1. **Content Image:** Choose an image that represents the content you want to stylize.
