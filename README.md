@@ -16,7 +16,7 @@ To refine the stylized image, we assess three key parameters:
 2. **Style Loss:** Evaluates the variance in artistic style between the chosen style image and the generated image.
 3. **Variation Loss (Regularization):** Encourages spatial continuity in the generated image, preventing overly pixelated results.
 
-Utilizing gradient descent, we iteratively minimize these losses, achieving a well-balanced, stylized image. In 20 iterations, we reduce the combined weighted loss value significantly, exemplified by a decrease from "1147329400.0" to "69726370.0." This optimization is critical, ensuring the output captures the desired content and style in the most effective manner.
+Utilizing gradient descent, we iteratively minimize these losses, achieving a well-balanced, stylized image. In 20 iterations, we reduce the combined weighted loss value significantly, exemplified by a decrease from "1147329400.0" to "69726370.0." This optimization is critical, ensuring that the output captures the desired content and style in the most effective manner.
 
 ## Dependencies
 
