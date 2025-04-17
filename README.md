@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project explores the fascinating realm of Neural Style Transfer, using TensorFlow's pre-trained models from TensorFlow-Hub. The essence lies in merging the content of one image with the artistic style of another, creating visually captivating results through Convolutional Neural Networks.
+This project explores the fascinating realm of Neural Style Transfer, using TensorFlow's pre-trained models from TensorFlow-Hub. The essence lies in merging the content of one image with the artistic style of another, creating visually captivating results through Convolutional Neural Networks (CNN).
 
 ## Example Scenario
 
